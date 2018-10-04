@@ -59,7 +59,7 @@
 "serdecretcolumns","Date, Race, Class/SailNo, Ret Code, Initials","",""
 "serdecretrows","25","",""
 "serpubincluderacetables","0","",""
-"serevent","AFR season 18","",""
+"serevent","AFR season 19","",""
 "servenue","LiveSkipper","",""
 "sertitle","Results are provisional as of #,Results are final as of #.,Results are final as of @ on #,Results are provisional,S17","",""
 "sernotes","RRS A9 is amended such that DNS, DNF, RET, DSQ but also DNC are always scored as the number of boats that started the race + 1.","",""
